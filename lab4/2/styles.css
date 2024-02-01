@@ -1,0 +1,29 @@
+p {
+	color: orange;
+    text-align: justify;
+	width: 300px;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: skyblue;
+}
+
+h3 {
+    color: red;
+}
+
+h3 {
+    color: rgb(255, 0, 0);
+}
+
+th {
+	text-align: left;
+}
+
+table {
+	width: 400px;
+}
